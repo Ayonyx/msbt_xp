@@ -8,5 +8,5 @@ information to msbt (Mik's Scrolling Battle Text)
 
 h2. Links
 
-<b> screenshot: http://i.imgur.com/2eoV3.jpg</b>
+<b> "screenshot":http://i.imgur.com/2eoV3.jpg</b>
 
