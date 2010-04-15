@@ -1,0 +1,9 @@
+msbt_xp is a simple addon that adds extra experience gain related 
+information to msbt (Mik's Scrolling Battle Text)
+
+<b>Each time you kill an NPC the addon will report:</b>
+* Experience Current / Experience Total
+* Percentage of level completed
+* Kills needed to level
+
+

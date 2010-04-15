@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: MSBT - XP
+## Author: Adalyn - Korgath US
+## Version: 1.0
+## Notes: Throw useful xp gain info to msbt
+## SavedVariablesPerCharacter: msbtxpDB
+## Dependencies: MikScrollingBattleText
+
+embeds.xml
+
+msbt_xp.lua
